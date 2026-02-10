@@ -4,15 +4,17 @@ Dissertation project — fine-tunes BERT (TensorFlow) for sarcasm detection on R
 
 ## Structure
 
-- `bert-bert/` — BERT- base model (notebook + script)
+- `bert-base/` — BERT base model (notebook + script)
+- `bert-finetune/` — BERT fine-tuning with PyTorch
+- `bert-vader/` — BERT + VADER sentiment features
+- `bert-cnn/` — BERT + CNN variant
 - `bert-lstm/` — BERT + LSTM variant
-- `bert-sentiment/` — BERT + sentiment features variant
-- `bert-finetune/` — BERT + base finetuning
+- `bert-multi-layer/` — BERT + multi-layer dense network
 - `data/` — dataset (`balanced_politics_subset.csv`)
 
 ## Quick start
 
-1. Open the notebook in `bert-bert/` (or another variant) in **Google Colab**.
+1. Open the notebook in `bert-base/` (or another variant) in **Google Colab**.
 2. Update the dataset path to `data/balanced_politics_subset.csv` (or keep the Drive path if using Colab with mounted Drive).
 3. Run all cells.
 
