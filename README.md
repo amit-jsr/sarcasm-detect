@@ -31,3 +31,7 @@ Model checkpoint: `my_keras_model.h5`
 
 ## Author
 - Amit Jaiswar
+
+## Project Timeline
+- Initial development: Jan-June 2021 
+- Refactored and documented: 2026
