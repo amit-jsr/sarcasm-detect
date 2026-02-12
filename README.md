@@ -28,10 +28,6 @@ Model checkpoint: `my_keras_model.h5`
 
 **Publication:** <https://dspace.isical.ac.in/jspui/bitstream/10263/7294/1/Amit%20Jaiswar-cs-19-21.pdf>
 
-
-## Author
-- Amit Jaiswar
-
 ## Project Timeline
 - Initial development: Jan-Jul 2021 
 - Refactored and documented: 2026
